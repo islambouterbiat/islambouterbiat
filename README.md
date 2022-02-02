@@ -24,11 +24,11 @@ Nice to meet you, I'm Bouterbiat Islam
  
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=react" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=islambouterbiat&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=islambouterbiat&theme=react" width="48%" >
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=TidbitsJS&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=islambouterbiat&theme=react-dark)
 <br>
 
 <p align="center">Wanna Know me More?</p>
