@@ -15,10 +15,10 @@ Nice to meet you, I'm Bouterbiat Islam
 -------------------------------
 
 ## Other Shields 🛡
- * <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png " width='60'  title='C' /> C/C++
- * <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png " width='60'  title='Python' /> Python
- * <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png " width='60'  title='React Native' /> React Native
- * <img src="https://cdn.icon-icons.com/icons2/1724/PNG/512/4023873-brain-learning-machine-machine-learning-ml_112855.png " width='60'  title='ML & AI' /> Knowledge of ML and AI
+ * <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png " width='60'  title='C' />C/C++
+ * <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png " width='60'  title='Python' />Python
+ * <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png " width='60'  title='React Native' />React Native
+ * <img src="https://cdn.icon-icons.com/icons2/1724/PNG/512/4023873-brain-learning-machine-machine-learning-ml_112855.png " width='60'  title='ML & AI' />Knowledge of ML and AI
 
  <br />
  
