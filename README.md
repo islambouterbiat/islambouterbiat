@@ -5,7 +5,7 @@ Nice to meet you, I'm Bouterbiat Islam
 ## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
-- 👩‍💻 Working on Web Development 
+- 👩‍💻 Working on Full Stack Web Development 
 - 📝 Writing Words , Writing Code
 - 🎯 Goal : To be Senior Full Stack Developer 
 
